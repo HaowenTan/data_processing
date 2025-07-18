@@ -1,0 +1,9 @@
+wikiextractor==3.0.6
+jsonlines
+tqdm
+opencc
+mwparserfromhell
+lxml
+matplotlib
+dashscope
+openai
